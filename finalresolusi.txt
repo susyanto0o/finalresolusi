@@ -1,0 +1,3 @@
+Final Resolusi tahun ini
+- konsisten membuat konten 1 x seminggu
+- belajar dan mengimplementasikan React native dan ReactJS
